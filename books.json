@@ -1,0 +1,17 @@
+[
+    {
+        "book_title" : "Things Fall Apart",
+        "price" : "2500",
+        "author" : "Chinua Achebe"
+    },
+    {
+        "book_title" : "The Concubine",
+        "price" : "2000",
+        "author" : "Elechi Amadi"
+    },
+    {
+        "book_title" : "Yellow Sun",
+        "price" : "2700",
+        "author" : "Chimamanda Amechi"
+    }
+]
